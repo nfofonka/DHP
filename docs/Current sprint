@@ -1,31 +1,22 @@
-Sprint Atual
-
+Season
 Season 1 - Foundation
 
-Status
+Sprint
+Sprint 2 - Descoberta do Domínio
 
-🟢 Descoberta do Produto
+Objetivo
+Compreender o domínio do DHP antes de iniciar a implementação.
 
 Concluído
-
-✔ Nome do produto
-✔ Estrutura do repositório
-✔ Documentação
-✔ Visão inicial
-✔ Filosofia do projeto
+✔ Estrutura do projeto
+✔ Documentação inicial
+✔ Visão do produto
 
 Em andamento
-
 ⬜ Modelagem do domínio
 
-Próximo objetivo
-
-Definir as entidades principais.
+Próximo passo
+Definir entidades, relacionamentos e casos de uso.
 
 Bloqueadores
-
 Nenhum.
-
-Observações
-
-Decidimos tratar o DHP como um produto de longo prazo.
