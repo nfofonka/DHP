@@ -1,14 +1,18 @@
 Season 1 - Foundation
 
-FASE 0 ✅
+Sprint 0 ✅
 - Criar repositório
 - Organizar documentação
 
-FASE 1
-- Descoberta do Produto
+Sprint 1 ✅
+- Planejamento
+- Estrutura do projeto
+- Documentação
 
-FASE 2
-- Modelagem do Domínio
+Sprint 2 🟡
+- Descoberta do domínio
+- Modelagem do domínio
+- Casos de uso
 
 FASE 3
 - Arquitetura
