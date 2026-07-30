@@ -1,1 +1,24 @@
+Domain Model
 
+1. Glossário
+
+| Termo           | Significado                                                                        |
+| --------------- | ---------------------------------------------------------------------------------- |
+| User            | Pessoa que utiliza o DHP.                                                          |
+| Hub             | Espaço onde uma ou mais pessoas organizam um contexto da vida.                     |
+| Activity        | Algo que pode ser registrado ao longo do tempo (treino, estudo, leitura, água...). |
+| Goal            | Objetivo relacionado a uma Activity.                                               |
+| Competition     | Competição baseada em uma ou mais Activities.                                      |
+| Progress Record | Registro realizado pelo usuário em uma Activity.                                   |
+| Score           | Pontuação gerada a partir dos registros.                                           |
+| Achievement     | Conquista desbloqueada.                                                            |
+| Invitation      | Convite para participar de um Hub ou Competition.                                  |
+
+2. Entidades
+
+3. Relacionamentos
+
+4. Regras de Negócio
+
+Regra 001
+Um Hub pode possuir no máximo dois participantes na versão inicial do produto.
