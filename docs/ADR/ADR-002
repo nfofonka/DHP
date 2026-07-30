@@ -1,0 +1,13 @@
+Título
+
+O Hub será a entidade central do DHP.
+
+Motivação
+
+Todo o conteúdo do sistema será organizado dentro de um Hub, permitindo que um mesmo espaço represente diferentes contextos da vida (pessoal, casal, viagem, estudos, academia, projetos etc.).
+
+Consequências
+
+O DHP poderá crescer sem alterar sua estrutura principal.
+Novos módulos poderão ser adicionados sem mudar o Core.
+O Hub se torna o ponto de entrada de praticamente todas as funcionalidades.
