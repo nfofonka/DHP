@@ -22,3 +22,9 @@ Domain Model
 
 Regra 001
 Um Hub pode possuir no máximo dois participantes na versão inicial do produto.
+
+5. Core
+- Hub
+- User
+- Membership
+- Module
